@@ -28,8 +28,3 @@ sudo apt install curl
 echo 'Y';
 
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-
-
-#docky
-sudo apt install docky
-echo 'Y';
